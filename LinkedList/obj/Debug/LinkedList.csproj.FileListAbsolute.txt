@@ -1,0 +1,5 @@
+c:\users\filip555\documents\visual studio 2015\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+c:\users\filip555\documents\visual studio 2015\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+c:\users\filip555\documents\visual studio 2015\Projects\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+c:\users\filip555\documents\visual studio 2015\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+c:\users\filip555\documents\visual studio 2015\Projects\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
